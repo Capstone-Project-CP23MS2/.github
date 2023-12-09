@@ -1,3 +1,3 @@
 ## SportConnect
-Web Application for find sport activities around you  
-http://cp23ms2.sit.kmutt.ac.th
+Mobile Application for find sport activities around you  
+backend api : http://cp23ms2.sit.kmutt.ac.th
